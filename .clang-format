@@ -1,0 +1,25 @@
+ColumnLimit: 0
+IndentWidth: 8
+TabWidth: 8
+UseTab: Always
+
+IndentAccessModifiers: false
+AccessModifierOffset: -8
+
+AllowShortFunctionsOnASingleLine: Empty
+AlwaysBreakAfterDefinitionReturnType: All
+
+BraceWrapping:
+  AfterClass:      false
+  AfterControlStatement: false
+  AfterEnum:       false
+  AfterFunction:   true
+  AfterNamespace:  false
+  AfterObjCDeclaration: false
+  AfterStruct:     false
+  AfterUnion:      false
+  BeforeCatch:     false
+  BeforeElse:      false
+  IndentBraces:    false
+BreakBeforeBraces: Custom
+
